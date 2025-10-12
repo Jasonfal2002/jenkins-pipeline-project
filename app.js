@@ -1,4 +1,4 @@
-console.log("Hello from Jenkins Pipeline!"); //trigger pipeline
+console.log("Hello from Jenkins Pipeline!"); 
 
 function add(a, b) {
     return a + b;
